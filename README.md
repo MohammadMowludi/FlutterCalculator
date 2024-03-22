@@ -1,6 +1,6 @@
 # procalculator
 
-A new Flutter project.
+Flutter project "Pro Calculator" For ios, Macos, Android, web, Windows, Linux 
 
 ## Getting Started
 
